@@ -1,6 +1,6 @@
-<p align="center" style="width=100%; background-color: #121414">
+<h1 align="center" style="width=100%; background-color: #121414">
   <img src="file/logo.svg" height="100" width="175" alt="ig.news" />
-</p>
+</h1>
 
 # Sobre o projeto
 
@@ -13,7 +13,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### front-end
 
 - [Axios](https://www.npmjs.com/package/axios)
-- [Prismic](https://prismic.io)
+- [Prismic CMS](https://prismic.io)
 - [TypeScript](https://www.typescriptlang.org)
 - [Axios](https://www.npmjs.com/package/axios)
 - [Next-Auth](https://next-auth.js.org)
@@ -62,6 +62,7 @@ $ cd ignite-reactjs-aula-ignews
 # Instale as dependências
 $ yarn install
 
+# Execute o projeto
 $ yarn dev
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
