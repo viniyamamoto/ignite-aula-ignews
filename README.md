@@ -12,40 +12,25 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### front-end
 
-- [axios](https://www.npmjs.com/package/axios)
-- [prismic](https://prismic.io)
-- [typescript](https://www.typescriptlang.org)
-- [axios](https://www.npmjs.com/package/axios)
-- [framer-motion](https://www.npmjs.com/package/framer-motion)
-- [next-auth](https://next-auth.js.org)
-- [nextjs-progressbar](https://www.npmjs.com/package/nextjs-progressbar)
-- [react-icons](https://react-icons.github.io/react-icons/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Prismic](https://prismic.io)
+- [TypeScript](https://www.typescriptlang.org)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Next-Auth](https://next-auth.js.org)
 
 ### back-end
 
-- [faunadb](https://fauna.com)
-- [stripe](https://stripe.com/br)
+- [FaunaDB](https://fauna.com)
+- [Stripe](https://stripe.com/br)
 
 # Layout web
 
 <p align="center">
     <img src="file/Home.png">
-    <img src="file/Post.png">
+    <img src="file/Posts.png">
     <img src="file/InternaPost.png">
   </div>
 </p>
-
-# Como executar o projeto
-
-💡 Como o back-end está em serverless não é necessário executar nenhuma configuração separada para ele.
-
-## Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-
-- [Git](https://git-scm.com)
-- [Node.js](https://nodejs.org)
-- [VSCode](https://code.visualstudio.com) ou outro editor de codigos
 
 ## Rodando a aplicação
 
