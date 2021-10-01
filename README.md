@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-IgNews é um projeto desenvolvido no curso Ignite. tratase de um site de noticias desenvolvido em [next](https://nextjs.org) com integração com o [stripe](https://stripe.com/br) para pagamentos, [faunadb](https://fauna.com) como banco de dados serverless, [prismic](https://prismic.io) para CMS de noticias.
+IgNews é um projeto desenvolvido no curso Ignite. tratase de um site de noticias desenvolvido em [Next](https://nextjs.org) com integração com o [Stripe](https://stripe.com/br) para pagamentos, [FaunaDB](https://fauna.com) como banco de dados serverless, [Prismic](https://prismic.io) para CMS de noticias.
 
 # 🛠 Tecnologias
 
