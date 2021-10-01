@@ -1,6 +1,6 @@
-<h1 align="center" style="width=100%; background-color: #121414">
+<p align="center" style="width=100%; background-color: #121414">
   <img src="file/logo.svg" height="100" width="175" alt="ig.news" />
-</h1>
+</p>
 
 # Sobre o projeto
 
