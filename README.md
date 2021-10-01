@@ -55,6 +55,7 @@ Quando clonar a aplicação não se esqueça de:
 ```bash
 # Clone este repositório
 $ git clone https://github.com/viniyamamoto/ignite-reactjs-aula-ignews
+
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd ignite-reactjs-aula-ignews
 
